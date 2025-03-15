@@ -1,28 +1,28 @@
 # System-Tools
 Basic system tools.
 
-![image](images/System Tools.png)
+![image](images/system-tools.png)
 
 ## Requirements
 * Windows 10+
 * Compatibity with x64
 
 ## Installation
-[X64 INSTALL](https://files.fm/f/4bk38caxk4)
+[System Tools](https://files.fm/f/4bk38caxk4)
 
 ## Features & Drawbacks
 Features:
-* Simple design
-* Dark Mode
-* Animations
-* Good for the eyes
-* 13311 different characters
+* Shows full system information 
+* Displays hardware details
+* Shows installed software
+* Displays network information
+* Monitors system health
+* Little to no memory usage
+* Good loading speed
+* No side install, install once from here or files fm and use it
 
 Drawbacks:
-* High memory usage
-* 242 MB storage
-* Little slow loading speed
-* No white mode so expect a compatibility issue for light mode on it.
+* Doesn't show all installed software and running processes
 
 > [!NOTE]
 > This application is on version 1 so expect bugs.<br>
