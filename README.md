@@ -1,7 +1,7 @@
 # System-Tools
 Basic system tools.
 
-![image](images/system-tools.png)
+![image](images/SystemTools.png)
 
 ## Requirements
 * Windows 10+
